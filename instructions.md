@@ -11,3 +11,7 @@
 ## Payment Gateway Feature -
 
 After adding your products to the cart you can use the payment gateway feature
+
+## Product Filters -
+
+You can click the filtters and filter the products list
